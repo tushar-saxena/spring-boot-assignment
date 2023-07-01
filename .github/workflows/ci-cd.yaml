@@ -20,7 +20,4 @@ jobs:
           java-version: '17'
 
       - name: Build with Gradle
-        run: ./gradlew build
-
-      - name: Run tests
-        run: ./gradlew test
+        run: ./gradlew :sbservice1:build
