@@ -1,0 +1,3 @@
+rootProject.name = 'spring-boot-assignment'
+include 'sbservice1'
+include 'sbservice2'
